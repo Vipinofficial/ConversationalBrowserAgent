@@ -1,0 +1,14 @@
+asyncio
+playwright>=1.41.0
+streamlit
+Pillow
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
