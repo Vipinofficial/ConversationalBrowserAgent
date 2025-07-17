@@ -118,7 +118,7 @@ Agent: "Form submitted successfully!"
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/ai-browser-control-agent.git
+git clone https://github.com/vipinofficial/ConversationalBrowserAgent.git
 cd ai-browser-control-agent
 ```
 
@@ -148,7 +148,7 @@ GMAIL_PASSWORD=your_test_password_here
 
 ### Step 4: Run the Application
 ```bash
-streamlit run main.py
+streamlit run ConversationalBrowserAgent.py
 ```
 
 Open your browser and go to `http://localhost:8501`
